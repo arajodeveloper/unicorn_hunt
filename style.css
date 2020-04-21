@@ -1,0 +1,97 @@
+h1,
+h3,
+h5 {
+    align-items: center;
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+
+}
+ol {
+    margin: auto;
+    width: 300px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+    padding: 3px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: 1px solid black;
+    table-layout: fixed;
+    
+}
+
+th,td {
+    border: 1px solid black;
+    
+}
+
+td:hover{
+    text-shadow: 1px 2px 2px;
+}
+
+
+footer {
+    align-items: center;
+    text-align: center;
+}
+.buttonHolder {
+    text-align: center;
+
+}
+
+.navbar {
+    text-align: center;
+}
+
+h1,
+h3,
+h5 {
+    font-family: 'Girassol', cursive;
+}
+
+html {
+    background-image: linear-gradient(pink, rgb(217, 230, 146));
+}
+
+td {
+    text-align: center;
+    font-size: 50px;
+}
+h1{
+    font-size: 72px;
+    background: -webkit-linear-gradient(red, yellow);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
+h3 {
+    font-size: 52px;
+    background: -webkit-linear-gradient(black, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
+h5 {
+    font-size: 20px;
+    background: -webkit-linear-gradient(red, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.animals {
+    width: 70px;
+    height: 70px;
+    margin: 0;
+    
+}
